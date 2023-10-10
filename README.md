@@ -1,7 +1,7 @@
 <div align=center>
 
 
-# [📃 백지장 📃](http://seb045022pre.shop/)
+# [📃 백지장 📃]
 
 ## Stackoverflow 클론 코딩
 
